@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('saxa의 처음')
+st.title('saxa 1')
 st.write('작성')
